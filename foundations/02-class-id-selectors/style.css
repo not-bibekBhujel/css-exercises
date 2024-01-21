@@ -1,0 +1,16 @@
+.odd{
+    background-color: rgba(175,0,0,.66);
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+#two{
+    color:rgba(0,0,250,.5);
+    font-size: 36px;
+}
+.unique{
+    font-size: 24px;
+}
+#four{
+    background-color: rgba(38, 197, 38, 0.945);
+    font-size:24px;
+    font-weight: bold;
+}
